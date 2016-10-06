@@ -4,7 +4,6 @@
   "dependencies": {
     "NUnit": "3.5.0",
     "dotnet-test-nunit": "3.4.0-beta-2",
-    "NLog.Extensions.Logging": "1.0.0-*",
     "AdditionalCoreHelper": "1.0.0-*"
   },
 

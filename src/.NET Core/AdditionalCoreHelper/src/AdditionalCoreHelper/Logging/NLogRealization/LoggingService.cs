@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-namespace AdditionalCorehelper.Logging.NLogRealization
+namespace AdditionalCoreHelper.Logging.NLogRealization
 {
     public class LoggingService : NLog.Logger, ILoggingService
     {
